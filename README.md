@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardo8aib&label=Profile%20views&color=0e75b6&style=flat" alt="ricardo8aib" /> </p>
 
-- 🔭 I’m interested in **I’m interested in data**
+- 🔭 I’m interested in **data science and data engineering**
 
 - 👯 I’m looking to collaborate on **data science projects!**
 
